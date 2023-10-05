@@ -38,7 +38,7 @@ Your goals for this exercise are:
 
 An example display is something like the following:
 
-![Shot Data Table](../ShotDataExample.png)
+![Shot Data Table](ShotDataExample.png)
 
 This project has been set up with all of the necessary tooling and will run without errors using:
 
