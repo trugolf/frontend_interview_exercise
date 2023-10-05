@@ -59,7 +59,7 @@ There is no backend required. The sample is setup as if you were fetching data f
 1. Clone manually into the desired location:
 
 ```bash
-git clone https://github.com/trugolf/*.git
+git clone https://github.com/trugolf/frontend_interview_exercise.git
 ```
 
 2. cd into the `excercise` directory
