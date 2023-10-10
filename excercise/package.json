@@ -1,7 +1,7 @@
 {
   "name": "e6golf",
   "version": "0.0.1",
-  "description": "E6Golf Scorecard",
+  "description": "E6Golf Shot Data",
   "private": true,
   "scripts": {
     "start": "vue-cli-service serve",
