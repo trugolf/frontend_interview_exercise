@@ -13,7 +13,7 @@ Please add any comments about your decisions you have made inline, and give a su
 * Please make sure the delivered result contains a human readable version of the source code.
 * Please create a new readme or other document that explains what you have done.
 
-A sample of how the data should be returned and formatted to use by the Scorecard component is included in the `scorecardData.json` file in the `/api/data` directory. This is for reference only and should be the end result of your project.
+*****Note: While the project has been set up using Vue CLI tooling, you are more than welcome to change any of this out to use the framework of your choice (React, Svelte, etc.). You are not required to use the VueJS framework.***
 
 ## Exercise
 
