@@ -1,14 +1,11 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import Vuetify from 'vuetify';
 import store from './store';
 import router from './router';
 import App from './App';
-import vuetify from './plugins/vuetify';
-import 'vuetify/dist/vuetify.min.css';
-import '@/assets/css/variables.css';
+import vuetify from './plugins/vuetify'
 
-Vue.use(Vuetify);
+// Vue.use(Vuetify);
 Vue.config.productionTip = false;
 Vue.use(Vuex);
 

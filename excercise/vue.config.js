@@ -10,7 +10,12 @@ module.exports = {
       .end()
       .type('javascript/auto');
   },
+
   publicPath: '/',
   outputDir: './dist/',
   assetsDir: 'assets',
+
+  transpileDependencies: [
+    'vuetify'
+  ]
 };
