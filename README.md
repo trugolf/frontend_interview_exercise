@@ -13,7 +13,7 @@ Please add any comments about your decisions you have made inline, and give a su
 * Please make sure the delivered result contains a human readable version of the source code.
 * Please create a new readme or other document that explains what you have done.
 
-*****Note: While the project has been set up using Vue CLI tooling, you are more than welcome to change any of this out to use the framework of your choice (React, Svelte, etc.). You are not required to use the VueJS framework.***
+*****Note: While the project has been set up using Vue CLI tooling, you are more than welcome to change any of this out to use the framework of your choice (React, Svelte, VanillaJS etc.). You are not required to use the VueJS 2 framework. i.e. you can rip that out completely if you choose, you can convert it to typescript, you can upgrade to Vue 3. Anything goes for that.***
 
 ## Exercise
 
@@ -21,7 +21,7 @@ You will use a sample of data representing a 9 hole round of golf played within 
 
 Your goals for this exercise are:
 
-1. Consume the data from the `shotsNine.json` file into your project, simulating a fake api call, and display information about each shot in the UI in however form you see best. The project is already set up to use the Vuetify 2 UI framework. The project is also already set up to use Vuex as the state management and process to make any api calls.
+1. Consume the data from the `shotsNine.json` file into your project, simulating a fake api call, and display information about each shot in the UI in however form you think is best to present this to the end user. The project is already set up to use the Vuetify 2 UI framework. The project is also already set up to use Vuex as the state management and process to make any api calls.
    * There is a lot of data associated with each shot and not all of it is necessary to be displayed. What you choose to display is at your discretion.
    * Key data fields on a shot are:
      * courseHoleIndex
@@ -35,6 +35,7 @@ Your goals for this exercise are:
 1. You should be able to filter the shots by club type in some form. This could be using a button, toggle, dropdown, or however you see it working best.
 2. Clicking on a single shot record should display additional details about the shot. This can either be displayed on a new page, in a modal popup, or some other method of your choice. The additional data you display is also your choice.
 3. Make it as visually appealing as you would like. Ultimate goal is for the data to be displayed in a user-friendly manner and function as requested.
+4. Feel free to add any additional features you think would be good to have.
 
 An example display is something like the following:
 
